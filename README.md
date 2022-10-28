@@ -1,6 +1,6 @@
 # instagram_clone_flutter
 
-A new Flutter project.
+Have the basic instagram functionalities
 
 ## Getting Started
 
